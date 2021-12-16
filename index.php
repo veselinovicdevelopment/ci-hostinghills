@@ -42,6 +42,7 @@ if( ! ini_get('date.timezone') )
  * @filesource
  */
 
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
